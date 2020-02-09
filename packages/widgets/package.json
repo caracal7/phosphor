@@ -1,6 +1,6 @@
 {
   "name": "@phosphor/widgets",
-  "version": "1.9.3",
+  "version": "2.0.0",
   "description": "PhosphorJS - Widgets",
   "homepage": "https://github.com/phosphorjs/phosphor",
   "bugs": {
